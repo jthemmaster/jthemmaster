@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Jan 👋
 
-<!--
-**jthemmaster/jthemmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Ph.D. candidate in theoretical chemistry using machine learning to explore chemical reaction space._
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🎓 Ph.D. candidate in Theoretical Chemistry at Heinrich Heine University Düsseldorf  
+- 🧪 Work on **nanoreactor method** and automatic **reaction discovery**  
+- 🤖 Use **machine-learning interatomic potentials** and active learning to accelerate atomistic simulations  
+- 💻 Enjoy building **Python** tooling around simulation workflows, ML models, and data analysis  
+
+---
+
+## Selected projects
+
+- 🔬 **[PeakAnalyzer](https://github.com/jthemmaster/PeakAnalyzer)**  
+  Jupyter-based toolkit for peak detection, fitting, and visualization of experimental spectra, developed during my PhD research.
+
+- 🧠 **[ClassifAI](https://github.com/jthemmaster/ClassifAI)**  
+  A small Python project for image classification with PyTorch, including training scripts, data handling, and experiment tracking using mlflow.
+
+- 🌐 **[jthemmaster.github.io](https://github.com/jthemmaster/jthemmaster.github.io)**  
+  Personal website (work in progress).
+
+- 🧪 **[torchani fork](https://github.com/jthemmaster/torchani)**  
+  Fork of TorchANI used to explore neural network potentials for chemistry.
+
+---
+
+## Tech & tools
+
+- **Languages**: Python (advanced), a bit of C++ / HTML / Fortran  
+- **ML**: PyTorch, ML for chemistry  
+- **Scientific stack**: ASE, ORCA, Gaussian, TURBOMOLE, TeraChem, xTB, GROMACS  
+- **Workflow / HPC**: Ray, FireWorks, quacc, PBS-style clusters  
+- **Dev tools**: Git, VS Code, Jupyter, LaTeX, GitHub Copilot  
+
+---
+
+## GitHub stats
+
+![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jthemmaster&show_icons=true&theme=radical)

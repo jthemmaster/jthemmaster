@@ -21,8 +21,8 @@ _Ph.D. candidate in theoretical chemistry using machine learning to explore chem
 - 🧠 **[ClassifAI](https://github.com/jthemmaster/ClassifAI)**  
   A small Python project for image classification with PyTorch, including training scripts, data handling, and experiment tracking using mlflow.
 
-- 🌐 **[jthemmaster.github.io](https://github.com/jthemmaster/jthemmaster.github.io)**  
-  Personal website (work in progress).
+- 🌐 **[AUTOGRAPH](https://github.com/failip/autograph)**  
+  Web-based 3D visualization tool for constructing and exploring chemical reaction networks. I contributed the implementation of a shortest-path algorithm for navigating large reaction networks, enabling on-the-fly path finding and filtering between selected species.
 
 - 🧪 **[torchani fork](https://github.com/jthemmaster/torchani)**  
   Fork of TorchANI used to explore neural network potentials for chemistry.

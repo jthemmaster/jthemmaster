@@ -6,7 +6,7 @@ _Ph.D. candidate in theoretical chemistry using machine learning to explore chem
 
 ## About me
 
-- 🎓 Ph.D. candidate in Theoretical Chemistry at Heinrich Heine University Düsseldorf  
+- 🎓 Ph.D. candidate in Theoretical Chemistry at Heinrich Heine University Düsseldorf, in the *Theory and Simulation of Complex System* group (group leader: Jun.-Prof. Jan Meisner)
 - 🧪 Work on **nanoreactor method** and automatic **reaction discovery**  
 - 🤖 Use **machine-learning interatomic potentials** and active learning to accelerate atomistic simulations  
 - 💻 Enjoy building **Python** tooling around simulation workflows, ML models, and data analysis  

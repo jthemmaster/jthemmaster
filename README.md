@@ -5,7 +5,6 @@ _Ph.D. candidate in theoretical chemistry using machine learning to explore chem
 ---
 
 ## About me
-
 - 🎓 Ph.D. candidate in Theoretical Chemistry at Heinrich Heine University Düsseldorf, in the *Theory and Simulation of Complex System* group (group leader: Jun.-Prof. Jan Meisner)
 - 🧪 Work on **nanoreactor method** and automatic **reaction discovery**  
 - 🤖 Use **machine-learning interatomic potentials** and active learning to accelerate atomistic simulations  
@@ -14,6 +13,9 @@ _Ph.D. candidate in theoretical chemistry using machine learning to explore chem
 ---
 
 ## Selected projects
+
+- ⚛️ **[Parsing Game](https://github.com/jthemmaster/parsing_game)**  
+  Interactive React/FastAPI tool for manual reaction labeling in molecular dynamics trajectories, including 3D inspection, bond assignment workflow, and local ground-truth export for parser benchmarking.
 
 - 🔬 **[PeakAnalyzer](https://github.com/jthemmaster/PeakAnalyzer)**  
   Jupyter-based toolkit for peak detection, fitting, and visualization of experimental spectra, developed during my PhD research.
